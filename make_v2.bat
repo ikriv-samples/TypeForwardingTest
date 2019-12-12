@@ -1,0 +1,1 @@
+xcopy /y C:\ivan\dev\exp\TypeForwardingTest\v2\MyLibrary.v2\bin\Debug\* bin\Debug
